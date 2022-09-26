@@ -1,0 +1,21 @@
+                Executable : /Users/jeremywang/Library/Android/sdk/cmake/3.18.1/bin/cmake
+arguments : 
+-H/Users/jeremywang/Develop/Android/Demos/ANRDemo/app
+-DCMAKE_FIND_ROOT_PATH=/Users/jeremywang/Develop/Android/Demos/ANRDemo/app/.cxx/cmake/debug/prefab/x86/prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=x86
+-DANDROID_NDK=/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105
+-DANDROID_PLATFORM=android-19
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DCMAKE_ANDROID_NDK=/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/jeremywang/Develop/Android/Demos/ANRDemo/app/build/intermediates/cmake/debug/obj/x86
+-DCMAKE_MAKE_PROGRAM=/Users/jeremywang/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=19
+-B/Users/jeremywang/Develop/Android/Demos/ANRDemo/app/.cxx/cmake/debug/x86
+-GNinja
+jvmArgs : 
+
+Build command args:

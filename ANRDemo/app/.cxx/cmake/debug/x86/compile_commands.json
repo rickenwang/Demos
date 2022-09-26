@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/jeremywang/Develop/Android/Demos/ANRDemo/app/.cxx/cmake/debug/x86",
+  "command": "/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android19 --sysroot=/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmemory_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/memory-lib.dir/src/main/cpp/memory-lib.cpp.o -c /Users/jeremywang/Develop/Android/Demos/ANRDemo/app/src/main/cpp/memory-lib.cpp",
+  "file": "/Users/jeremywang/Develop/Android/Demos/ANRDemo/app/src/main/cpp/memory-lib.cpp"
+}
+]

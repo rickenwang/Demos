@@ -1,0 +1,7 @@
+# ninja log v5
+0	369	1661591329	CMakeFiles/memory-lib.dir/src/main/cpp/memory-lib.cpp.o	e26082f17bb503a9
+370	468	1661591329	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmemory-lib.so	8c3114dcb4c3a979
+2	861	1662542314	CMakeFiles/memory-lib.dir/src/main/cpp/memory-lib.cpp.o	e26082f17bb503a9
+861	1076	1662542315	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmemory-lib.so	8c3114dcb4c3a979
+0	601	1662544394	CMakeFiles/memory-lib.dir/src/main/cpp/memory-lib.cpp.o	e26082f17bb503a9
+601	795	1662544395	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmemory-lib.so	8c3114dcb4c3a979

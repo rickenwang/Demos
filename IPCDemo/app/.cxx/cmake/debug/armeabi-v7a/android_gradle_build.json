@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi19 --sysroot=/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmemory_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android.toolchain.cmake",
+    "/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android-legacy.toolchain.cmake",
+    "/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/platforms.cmake",
+    "/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/jeremywang/Library/Android/sdk/cmake/3.18.1/bin/ninja -C \"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/jeremywang/Library/Android/sdk/cmake/3.18.1/bin/ninja  -C \"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "memory-lib-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/jeremywang/Library/Android/sdk/cmake/3.18.1/bin/ninja -C \"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a\" memory-lib",
+      "buildType": "debug",
+      "toolchain": "2123273690",
+      "abi": "armeabi-v7a",
+      "artifactName": "memory-lib",
+      "files": [
+        {
+          "src": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/src/main/cpp/memory-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libmemory-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "2123273690": {
+      "cppCompilerExecutable": "/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 19 min SDK version: armeabi-v7a",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027/Users/jeremywang/Library/Android/sdk/cmake/3.18.1\u0027 had version \u00273.18.1\u0027",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.22.1\u0027 found in SDK did not match requested version \u00273.18.1\u0027.",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a/android_gradle_build.json due to:",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a\u0027",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a\u0027",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/jeremywang/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/jeremywang/Develop/Android/Demos/IPCDemo/app\n-DCMAKE_FIND_ROOT_PATH\u003d/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/prefab/armeabi-v7a/prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003d/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105\n-DANDROID_PLATFORM\u003dandroid-19\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_NDK\u003d/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/build/intermediates/cmake/debug/obj/armeabi-v7a\n-DCMAKE_MAKE_PROGRAM\u003d/Users/jeremywang/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d19\n-B/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":2}],\"type\":\"hello\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 2\n  },\n  \"sourceDirectory\": \"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app\",\n  \"buildDirectory\": \"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003d/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/prefab/armeabi-v7a/prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darmeabi-v7a\",\n    \"-DANDROID_NDK\\u003d/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105\",\n    \"-DANDROID_PLATFORM\\u003dandroid-19\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darmeabi-v7a\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/build/intermediates/cmake/debug/obj/armeabi-v7a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/Users/jeremywang/Library/Android/sdk/cmake/3.18.1/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d19\"\n  ]\n}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning (dev) in CMakeLists.txt:\\n  No project() command is present.  The top-level CMakeLists.txt file must\\n  contain a literal, direct call to the project() command.  Add a line of\\n  code such as\\n\\n    project(ProjectName)\\n\\n  near the top of the file, but after cmake_minimum_required().\\n\\n  CMake is pretending there is a \\\"project(Project)\\\" command on the first\\n  line.\\nThis warning is for project developers.  Use -Wno-dev to suppress it.\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning (dev) in CMakeLists.txt:\n  No project() command is present.  The top-level CMakeLists.txt file must\n  contain a literal, direct call to the project() command.  Add a line of\n  code such as\n\n    project(ProjectName)\n\n  near the top of the file, but after cmake_minimum_required().\n\n  CMake is pretending there is a \"project(Project)\" command on the first\n  line.\nThis warning is for project developers.  Use -Wno-dev to suppress it.",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at /Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android-legacy.toolchain.cmake:415 (message):\\n  An old version of CMake is being used that cannot automatically detect\\n  compiler attributes.  Compiler identification is being bypassed.  Some\\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\\n  CMake\u0027s built-in compiler identification.\\nCall Stack (most recent call first):\\n  /Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android.toolchain.cmake:54 (include)\\n  /Users/jeremywang/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineSystem.cmake:93 (include)\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning at /Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android-legacy.toolchain.cmake:415 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android.toolchain.cmake:54 (include)\n  /Users/jeremywang/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineSystem.cmake:93 (include)\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at /Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android-legacy.toolchain.cmake:415 (message):\\n  An old version of CMake is being used that cannot automatically detect\\n  compiler attributes.  Compiler identification is being bypassed.  Some\\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\\n  CMake\u0027s built-in compiler identification.\\nCall Stack (most recent call first):\\n  /Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android.toolchain.cmake:54 (include)\\n  /Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.18.1-g262b901/CMakeSystem.cmake:6 (include)\\n  /Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning at /Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android-legacy.toolchain.cmake:415 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android.toolchain.cmake:54 (include)\n  /Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.18.1-g262b901/CMakeSystem.cmake:6 (include)\n  /Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang - skipped\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: /Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang - skipped",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ - skipped\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: /Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ - skipped",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Deprecation Warning:\\n  The \u0027cmake-server(7)\u0027 is deprecated.  Please port clients to use the\\n  \u0027cmake-file-api(7)\u0027 instead.\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Deprecation Warning:\n  The \u0027cmake-server(7)\u0027 is deprecated.  Please port clients to use the\n  \u0027cmake-file-api(7)\u0027 instead.\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":100,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineSystem.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Determine.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystem.cmake.in\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Initialize.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCCompiler.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompiler.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Determine-C.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android/Determine-Compiler.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeFindBinUtils.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-FindBinUtils.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCCompiler.cmake.in\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCXXCompiler.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompiler.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Determine-CXX.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android/Determine-Compiler.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeFindBinUtils.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-FindBinUtils.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXCompiler.cmake.in\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeGenericSystem.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Linux.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/UnixPaths.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCInformation.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-C.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/GNU.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang-C.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCCompiler.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompilerABI.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitIncludeInfo.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitLinkInfo.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCCompilerABI.c\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompileFeatures.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Internal/FeatureTesting.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCCompiler.cmake.in\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXInformation.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-CXX.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang-CXX.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCXXCompiler.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompilerABI.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitIncludeInfo.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitLinkInfo.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompileFeatures.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Internal/FeatureTesting.cmake\",\"../../../../../Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXCompiler.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"../../../../../Library/Android/sdk/ndk/25.0.8775105/build/cmake/android.toolchain.cmake\",\"../../../../../Library/Android/sdk/ndk/25.0.8775105/build/cmake/android-legacy.toolchain.cmake\",\"../../../../../Library/Android/sdk/ndk/25.0.8775105/build/cmake/platforms.cmake\",\"../../../../../Library/Android/sdk/ndk/25.0.8775105/build/cmake/compiler_id.cmake\",\"../../../../../Library/Android/sdk/ndk/25.0.8775105/build/cmake/android.toolchain.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\".cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.18.1-g262b901/CMakeSystem.cmake\",\".cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.18.1-g262b901/CMakeCCompiler.cmake\",\".cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.18.1-g262b901/CMakeCXXCompiler.cmake\",\".cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.18.1-g262b901/CMakeCCompiler.cmake\",\".cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.18.1-g262b901/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"/Users/jeremywang/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app\",\"type\":\"reply\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Debug\",\"projects\":[{\"buildDirectory\":\"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a\",\"hasInstallRule\":false,\"minimumCMakeVersion\":\"3.18.1\",\"name\":\"Project\",\"sourceDirectory\":\"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app\",\"targets\":[{\"artifacts\":[\"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libmemory-lib.so\"],\"buildDirectory\":\"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security   -fno-limit-debug-info  -fPIC\",\"defines\":[\"memory_lib_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"src/main/cpp/memory-lib.cpp\"]}],\"fullName\":\"libmemory-lib.so\",\"isGeneratorProvided\":false,\"linkFlags\":\"-static-libstdc++ -Wl,--build-id\u003dsha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--gc-sections -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-llog  -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"memory-lib\",\"sourceDirectory\":\"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app\",\"sysroot\":\"/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output /Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a/build_output.txt",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file /Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/armeabi-v7a/build_command.txt",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  }
+]

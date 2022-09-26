@@ -1,0 +1,3 @@
+/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/x86/CMakeFiles/memory-lib.dir

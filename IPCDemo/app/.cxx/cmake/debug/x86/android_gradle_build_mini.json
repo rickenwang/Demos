@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/CMakeLists.txt",
+    "/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android.toolchain.cmake",
+    "/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/android-legacy.toolchain.cmake",
+    "/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/platforms.cmake",
+    "/Users/jeremywang/Library/Android/sdk/ndk/25.0.8775105/build/cmake/compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/jeremywang/Library/Android/sdk/cmake/3.18.1/bin/ninja -C \"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/jeremywang/Library/Android/sdk/cmake/3.18.1/bin/ninja  -C \"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "memory-lib-Debug-x86": {
+      "artifactName": "memory-lib",
+      "buildCommand": "/Users/jeremywang/Library/Android/sdk/cmake/3.18.1/bin/ninja -C \"/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/.cxx/cmake/debug/x86\" memory-lib",
+      "abi": "x86",
+      "output": "/Users/jeremywang/Develop/Android/Demos/IPCDemo/app/build/intermediates/cmake/debug/obj/x86/libmemory-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}
